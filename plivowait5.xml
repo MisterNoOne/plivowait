@@ -1,4 +1,0 @@
-<Response>
-    <Wait length="5" />
-    <Speak>Hello</Speak>
-</Response>
